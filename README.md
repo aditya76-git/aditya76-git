@@ -13,11 +13,17 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![LINUX](https://img.shields.io/badge/LINUX-E95420?style=for-the-badge&logo=linux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VISUAL--STUDIO--CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
 
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
 
 <h3>Hello...</h3>
+
+<h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
+
+- [tv-genie-api](https://github.com/aditya76-git/tv-genie-api) API to access Electronic Program Guide Data of Indian TV Channels scrapped from TVGenie Website
 
 ![](https://komarev.com/ghpvc/?username=aditya76-git)
