@@ -25,4 +25,6 @@
 
 - [tv-genie-api](https://github.com/aditya76-git/tv-genie-api) API to access Electronic Program Guide Data of Indian TV Channels scrapped from TVGenie Website
 
+- [teleguide](https://teleguide.vercel.app) WEB App to view Indian TV Channels Schedule (Past and Upcoming 6 Days)
+
 ![](https://komarev.com/ghpvc/?username=aditya76-git)
