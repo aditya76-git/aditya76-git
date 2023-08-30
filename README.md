@@ -23,6 +23,10 @@
 
 <h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
+- [zoro-dl](https://github.com/aditya76-git/zoro-dl) ZORO-DL - Python Package to Download Anime from ZORO [DUAL-AUDIO] [MULTI-SUBS]
+
+- [spotiscrape-spotify-api](https://github.com/aditya76-git/spotiscrape-spotify-api) SpotiScrape - UnOfficial Spotify API
+
 - [tv-genie-api](https://github.com/aditya76-git/tv-genie-api) API to access Electronic Program Guide Data of Indian TV Channels scrapped from TVGenie Website
 
 - [teleguide](https://teleguide.vercel.app) WEB App to view Indian TV Channels Schedule (Past and Upcoming 6 Days)
