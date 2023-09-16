@@ -23,6 +23,8 @@
 
 <h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
+- [charusat-unofficial-api](https://github.com/aditya76-git/charusat-unofficial-api) CHARUSAT E-Governance UnOfficial API
+
 - [threadscrape-threads-net-web-api](https://github.com/aditya76-git/threadscrape-threads-net-web-api) ThreadScrape - Threads.net WEB API
 
 - [zoro-dl](https://github.com/aditya76-git/zoro-dl) ZORO-DL - Python Package to Download Anime from ZORO [DUAL-AUDIO] [MULTI-SUBS]
