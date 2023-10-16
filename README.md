@@ -21,9 +21,8 @@
 <h3>Hello...</h3>
 <h2>Featured<img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="50"</img></h2>
 
-<a href="https://daily-diary.vercel.app">
-  <img src="https://i.imgur.com/ywfXKEF.png" align="center" style="width: 100%" />
-</a>
+<img src="https://i.imgur.com/ywfXKEF.png" align="center" style="width: 100%" />
+
 
 <h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
