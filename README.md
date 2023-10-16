@@ -1,6 +1,5 @@
 <img src="https://i.imgur.com/1eKvWAr.png" align="center" style="width: 100%" />
 
-
 ![Logo](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%aditya76-git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
 <p align="centre">
@@ -20,6 +19,11 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
 
 <h3>Hello...</h3>
+<h2>Featured<img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="50"</img></h2>
+
+<a href="https://daily-diary.vercel.app">
+  <img src="https://i.imgur.com/ywfXKEF.png" align="center" style="width: 100%" />
+</a>
 
 <h2>Stuffs I've built<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"</img></h2>
 
