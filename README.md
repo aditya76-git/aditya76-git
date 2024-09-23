@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-7289d9?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -18,7 +19,7 @@
 
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="36"></h2>
 
-<h3>Hello...</h3>
+<h3>🛠️ Building solutions for the daily grind. 📊 I create tech that simplifies life 🚀</h3>
 <h2>Featured<img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="50"</img></h2>
 
 <img src="https://i.imgur.com/ywfXKEF.png" align="center" style="width: 100%" />
