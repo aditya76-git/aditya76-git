@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/1eKvWAr.png" align="center" style="width: 100%" />
 
-![Logo](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%aditya76-git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Faditya76-git&label=aditya76-git&icon=github&color=%23198754)
 
 <p align="centre">
 
