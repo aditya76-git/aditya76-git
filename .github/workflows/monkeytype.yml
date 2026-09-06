@@ -2,8 +2,12 @@ name: Monkeytype Readme Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch:
+    - cron: '0 0 * * *' # Runs at exactly 10:34 AM IST
+  workflow_dispatch: # Allows manual triggering
+
+# Explicitly grant write access to the repository contents
+permissions:
+  contents: write
 
 jobs:
   update-readme:
