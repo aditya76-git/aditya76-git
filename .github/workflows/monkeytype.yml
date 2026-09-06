@@ -1,0 +1,16 @@
+name: Monkeytype Readme Update
+
+on:
+  schedule:
+    - cron: '32 5 * * *' # Runs at exactly 10:34 AM IST
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Monkeytype Readme
+        uses: monkeytype-hub/monkeytype-readme@v1.1.0 
+        with:
+          username: aditya76-mt
+          api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
