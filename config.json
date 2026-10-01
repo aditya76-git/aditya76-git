@@ -1,20 +1,27 @@
 {
   "output_file": "monkeytype-activity.svg",
-
   "font": {
     "family": "Roboto Mono",
     "file": "fonts/roboto-mono-latin-400-normal.woff2",
     "size": 20
   },
-
   "colors": {
     "background": "#1c1c1c",
     "text": "#5a5a5a",
-    "levels": ["#181818", "#4a4a4a", "#808080", "#b0b0b0", "#e8e8e8"]
+    "levels": [
+      "#181818",
+      "#4a4a4a",
+      "#808080",
+      "#b0b0b0",
+      "#e8e8e8"
+    ]
   },
-
-  "thresholds": [1, 3, 6, 8],
-
+  "thresholds": [
+    1,
+    3,
+    6,
+    8
+  ],
   "layout": {
     "weeks": 53,
     "cell_size": 22,
@@ -23,5 +30,18 @@
     "label_width": 149,
     "padding": 20,
     "show_weekday_labels": true
+  },
+  "tooltip": {
+    "enabled": true,
+    "format": "{count} tests on {date}",
+    "format_one": "{count} test on {date}",
+    "format_zero": "No tests on {date}",
+    "font_size": 18,
+    "padding_x": 14,
+    "padding_y": 9,
+    "background": "#0d0d0d",
+    "text": "#ffffff",
+    "border": "#2e2e2e",
+    "hover_outline": "#ffffff"
   }
 }
