@@ -69,7 +69,7 @@
   />
 </h2>
 
-<p><i>things I actually managed to ship</i></p>
+<p><i>things I actually managed to ship.</i></p>
 
 - [kiroku-app](https://kiroku-app.pages.dev/) Expense Tracker
 - [fractus-ui](https://github.com/aditya76-git/fractus-ui) Component Library
