@@ -3,7 +3,7 @@ name: Update Monkeytype activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "30 21 * * *"
 
 permissions:
   contents: write
