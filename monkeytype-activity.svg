@@ -374,9 +374,10 @@ text{font-family:"Roboto Mono",ui-monospace,Menlo,Consolas,monospace;font-size:2
 #c365:hover~#t365{opacity:1}
 #c366:hover~#t366{opacity:1}
 #c367:hover~#t367{opacity:1}
+#c368:hover~#t368{opacity:1}
 </style>
 <rect width="1599" height="264" fill="#1c1c1c"/>
-<text x="20" y="38">453 tests</text>
+<text x="20" y="38">464 tests</text>
 <text x="1336.4" y="38">less</text>
 <rect x="1396.4" y="19" width="21" height="21" rx="4" fill="#181818"/>
 <rect x="1421.9" y="19" width="21" height="21" rx="4" fill="#4a4a4a"/>
@@ -755,6 +756,7 @@ text{font-family:"Roboto Mono",ui-monospace,Menlo,Consolas,monospace;font-size:2
 <rect id="c365" class="cell" x="1557.4" y="88.7" width="22" height="22" rx="4" fill="#808080"/>
 <rect id="c366" class="cell" x="1557.4" y="115.4" width="22" height="22" rx="4" fill="#4a4a4a"/>
 <rect id="c367" class="cell" x="1557.4" y="142.1" width="22" height="22" rx="4" fill="#e8e8e8"/>
+<rect id="c368" class="cell" x="1557.4" y="168.8" width="22" height="22" rx="4" fill="#e8e8e8"/>
 <g id="t0" class="tip"><rect x="9.4" y="92.0" width="341.2" height="36" rx="8"/><text x="180.0" y="110.0" text-anchor="middle" dominant-baseline="central">No tests on Sunday 5 Oct 2025</text></g>
 <g id="t1" class="tip"><rect x="9.4" y="118.7" width="341.2" height="36" rx="8"/><text x="180.0" y="136.7" text-anchor="middle" dominant-baseline="central">No tests on Monday 6 Oct 2025</text></g>
 <g id="t2" class="tip"><rect x="4.0" y="71.4" width="352.0" height="36" rx="8"/><text x="180.0" y="89.4" text-anchor="middle" dominant-baseline="central">No tests on Tuesday 7 Oct 2025</text></g>
@@ -1123,4 +1125,5 @@ text{font-family:"Roboto Mono",ui-monospace,Menlo,Consolas,monospace;font-size:2
 <g id="t365" class="tip"><rect x="1264.6" y="118.7" width="330.4" height="36" rx="8"/><text x="1429.8" y="136.7" text-anchor="middle" dominant-baseline="central">4 tests on Monday 5 Oct 2026</text></g>
 <g id="t366" class="tip"><rect x="1264.6" y="71.4" width="330.4" height="36" rx="8"/><text x="1429.8" y="89.4" text-anchor="middle" dominant-baseline="central">1 test on Tuesday 6 Oct 2026</text></g>
 <g id="t367" class="tip"><rect x="1221.4" y="98.1" width="373.6" height="36" rx="8"/><text x="1408.2" y="116.1" text-anchor="middle" dominant-baseline="central">10 tests on Wednesday 7 Oct 2026</text></g>
+<g id="t368" class="tip"><rect x="1232.2" y="124.8" width="362.8" height="36" rx="8"/><text x="1413.6" y="142.8" text-anchor="middle" dominant-baseline="central">11 tests on Thursday 8 Oct 2026</text></g>
 </svg>
