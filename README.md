@@ -51,7 +51,7 @@
 
 <a href="https://kiroku-app.pages.dev" target="_blank">
   <img
-    src="https://github.com/aditya76-git/aditya76-git/blob/main/media/projects/kiroku-banner.png?raw=true"
+    src="https://github.com/aditya76-git/aditya76-git/blob/main/media/projects/kiroku/kiroku-banner.png?raw=true"
     align="center"
     style="width: 100%"
   />
